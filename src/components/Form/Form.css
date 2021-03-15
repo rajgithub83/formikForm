@@ -1,0 +1,29 @@
+.input {
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 20px;
+    font-size: 20px;
+    border: 2px solid skyblue;
+    padding-left: 20px;
+    font-weight: bold;
+  }
+  
+  .button{
+    margin: auto;
+    margin-left: 10%;
+    margin-top: 20px;
+    border: 2px;
+  }
+  
+  .float-container {
+      border: 3px solid #fff;
+      padding: 20px;
+  }
+  
+  .float_child {
+      width: 50%;
+      float: right;
+      padding: 20px;
+      border: 2px solid skyblue;
+  } 
